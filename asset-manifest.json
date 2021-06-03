@@ -1,26 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca0a68f9.chunk.css",
-    "main.js": "/static/js/main.c49350a8.chunk.js",
-    "main.js.map": "/static/js/main.c49350a8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c7eccbb1.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c7eccbb1.js.map",
-    "static/css/2.46bd2087.chunk.css": "/static/css/2.46bd2087.chunk.css",
-    "static/js/2.afaaf42b.chunk.js": "/static/js/2.afaaf42b.chunk.js",
-    "static/js/2.afaaf42b.chunk.js.map": "/static/js/2.afaaf42b.chunk.js.map",
-    "static/js/3.dab74578.chunk.js": "/static/js/3.dab74578.chunk.js",
-    "static/js/3.dab74578.chunk.js.map": "/static/js/3.dab74578.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.46bd2087.chunk.css.map": "/static/css/2.46bd2087.chunk.css.map",
-    "static/css/main.ca0a68f9.chunk.css.map": "/static/css/main.ca0a68f9.chunk.css.map",
-    "static/js/2.afaaf42b.chunk.js.LICENSE.txt": "/static/js/2.afaaf42b.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/static/media/OpenSans-SemiBoldItalic.63afadba.ttf"
+    "main.css": "/DIBgram/static/css/main.d3229563.chunk.css",
+    "main.js": "/DIBgram/static/js/main.53952403.chunk.js",
+    "main.js.map": "/DIBgram/static/js/main.53952403.chunk.js.map",
+    "runtime-main.js": "/DIBgram/static/js/runtime-main.55af452f.js",
+    "runtime-main.js.map": "/DIBgram/static/js/runtime-main.55af452f.js.map",
+    "static/css/2.46bd2087.chunk.css": "/DIBgram/static/css/2.46bd2087.chunk.css",
+    "static/js/2.afaaf42b.chunk.js": "/DIBgram/static/js/2.afaaf42b.chunk.js",
+    "static/js/2.afaaf42b.chunk.js.map": "/DIBgram/static/js/2.afaaf42b.chunk.js.map",
+    "index.html": "/DIBgram/index.html",
+    "static/css/2.46bd2087.chunk.css.map": "/DIBgram/static/css/2.46bd2087.chunk.css.map",
+    "static/css/main.d3229563.chunk.css.map": "/DIBgram/static/css/main.d3229563.chunk.css.map",
+    "static/js/2.afaaf42b.chunk.js.LICENSE.txt": "/DIBgram/static/js/2.afaaf42b.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/DIBgram/static/media/OpenSans-SemiBoldItalic.63afadba.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7eccbb1.js",
+    "static/js/runtime-main.55af452f.js",
     "static/css/2.46bd2087.chunk.css",
     "static/js/2.afaaf42b.chunk.js",
-    "static/css/main.ca0a68f9.chunk.css",
-    "static/js/main.c49350a8.chunk.js"
+    "static/css/main.d3229563.chunk.css",
+    "static/js/main.53952403.chunk.js"
   ]
 }
