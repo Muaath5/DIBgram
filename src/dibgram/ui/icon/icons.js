@@ -40,6 +40,8 @@ export const top_bar_search = raw('./top_bar/search.svg');
 export const top_bar_call = raw('./top_bar/call.svg');
 export const top_bar_profile = raw('./top_bar/profile.svg');
 export const top_bar_group_call = raw('./top_bar/group_call.svg');
+export const input_attach = raw('./input/attach.svg');
+export const input_send = raw('./input/send.svg');
 export const title_search = raw('./title_search.svg');
 
 export const filters_edit = raw('./chat_filters/edit.svg');
