@@ -36,22 +36,34 @@
                 font-weight: 400;
                 font-size: 14px;
                 height: 100%;
-                width: 85%;
+                width: 70%;
                 border: none;
                 overflow: hidden;
                 resize: none;
             }
+
             .icon-button {
-                margin-bottom: auto;
+                margin: 5px;
             }
-            .icon-button.attach svg {
-                width: 123px;
-                height: 123px;
-             }
-             .icon-button.send svg {
-                width: 123px;
-                height: 123px;
-             }
+
+            #attach.icon-button {    
+                margin-top: 10px !important;
+                svg {
+                    width: 200px;
+                    height: 200px;
+                    margin-bottom: 10px !important;
+                }
+            }
+
+            #send.icon-button {
+                float: right;
+                svg {
+                    width: 25px;
+                }
+            }
+            #emojis.icon-button {
+                float: right;
+            }
         }
     }
 }

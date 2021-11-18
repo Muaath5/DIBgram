@@ -87,10 +87,10 @@ function ChatSectionContentWrapper(props) {
             <div className="bottom">
                 {(!false) && (
                     <div className="input">
-                        <IconButton icon={input_attach} />
+                        <IconButton id="attach" icon={input_attach} />
                         <input className="input-field" placeholder={__('lng_message_ph')} />
-                        <IconButton icon={settings_advanced} /> {/* Icon has problem in TDesktop */}
-                        <IconButton icon={input_send} ripple={false} /> {/* Need adding ripple={boolean} */}
+                        <IconButton id="send" icon={input_send} ripple={false} />
+                        <IconButton id="emojis" icon={settings_advanced} />
                     </div>
                 )}
             </div>
